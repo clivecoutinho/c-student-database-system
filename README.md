@@ -2,7 +2,7 @@
 
 A console-based student record management system written in C, using binary file handling.
 
-![Main menu](menu.png)
+![Main menu](Menu.png)
 
 ## Features
 - Add a student record
